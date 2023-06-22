@@ -1,11 +1,11 @@
 # PruebaTecnicaZemsania
  El consumo de la api creada en este proyecto muestra la implementación de un microservicio básico que utiliza datos simulados para recuperar una consulta.
- ## GET ObtenerDescuentos
+ ## GET Mockearinfo
 ```html
 https://localhost:8090/api/GetMockearinfo
 ```
 Crea una lista de 10 objetos de la clase persona con información ficticia para consumir el servicio.
- ## GET ObtenerDescuentos
+ ## GET BuscarPersona
 ```html
 https://localhost:8090/api/GetBuscarPersona/{tipo_id}/{id}
 ```
